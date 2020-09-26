@@ -1,3 +1,5 @@
+obsolete -- see "cyberpods-new"
+
 CYBERPODS
 
 How to play
